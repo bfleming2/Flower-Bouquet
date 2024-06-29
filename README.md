@@ -1,2 +1,2 @@
-# Flower-Boutique
-Interactive way to arrange flowers in a boutique
+# Flower-bouquet
+An interactive way to arrange flowers in a bouquet
